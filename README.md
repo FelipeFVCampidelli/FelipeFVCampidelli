@@ -25,7 +25,7 @@
 
 </br>
 
-## GitHub Stats
+## :octocat: GitHub Stats
 
 <!-- Stats themes= https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="center">
