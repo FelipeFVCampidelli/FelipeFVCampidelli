@@ -6,5 +6,6 @@
 <!-- Stats themes= https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&custom_title=MY%20GitHub%20Stats!&count_private=true&show_icons=true&theme=radical"                alt="FelipeFVCampidelli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&custom_title=My%20GitHub%20Stats!&count_private=true&show_icons=true&theme=radical"                alt="FelipeFVCampidelli" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVCampidelli&langs_count=8" alt="FelipeFVCampidelli" />
 </p>
