@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React and Node
 - 📫 How to reach me felipefvcampidelli@hotmail.com
 
+<!-- Stats themes= https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<!-- Stats themes= [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula] -->
-
-[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&show_icons=true&theme=dark)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&show_icons=true&theme=gotham" alt="FelipeFVCampidelli" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&custom_title=MY%20GitHub%20Stats!&count_private=true&show_icons=true&theme=radical"                alt="FelipeFVCampidelli" />
+</p>
