@@ -28,6 +28,6 @@
 
 <!-- Stats themes= https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="center">
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&count_private=true&show_icons=true&theme=radical&hide_title=true" alt="FelipeFVCampidelli" />
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVCampidelli&langs_count=10&hide=css,html&layout=compact&theme=radical&hide_title=true" alt="FelipeFVCampidelli" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&count_private=true&show_icons=true&theme=radical&hide_title=true" alt="FelipeFVCampidelli" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVCampidelli&langs_count=10&hide=css,html&layout=compact&theme=radical&hide_title=true" alt="FelipeFVCampidelli" />
 </p>
