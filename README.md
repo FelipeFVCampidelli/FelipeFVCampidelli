@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @FelipeFVCampidelli
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/felipe-campidelli-96bb6b1a8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://github.com/FelipeFVCampidelli" target="_blank"><img alt="FelipeFVCampidelli" src="https://badges.pufler.dev/visits/FelipeFVCampidelli/FelipeFVCampidelli?style=for-the-badge&logo=GitHub&label=Visits&color=blueviolet&logoColor=black&style=flat-square"/></a>
+</p>
+
+
+## 📖 About Me
+
 - 👀 I’m interested in data science, machine learning and web development
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning React Redux
 - 📫 How to reach me felipefvcampidelli@hotmail.com
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -14,6 +21,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+</br>
 
 ## Github 
 
