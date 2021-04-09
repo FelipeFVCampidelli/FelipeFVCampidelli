@@ -7,4 +7,4 @@
 <!-- Stats themes= [dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula] -->
 
 [My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&show_icons=true&theme=dark)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="FelipeFVCampidelli" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FelipeFVCampidelli&show_icons=true&theme=gotham" alt="FelipeFVCampidelli" />
