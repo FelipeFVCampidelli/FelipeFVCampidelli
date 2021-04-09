@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="https://www.linkedin.com/in/felipe-campidelli-96bb6b1a8" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/FelipeFVCampidelli" target="_blank"><img alt="FelipeFVCampidelli" src="https://badges.pufler.dev/visits/FelipeFVCampidelli/FelipeFVCampidelli?style=for-the-badge&logo=GitHub&label=Visits&color=blueviolet&logoColor=black&style=flat-square"/></a>
+  <a href="https://github.com/FelipeFVCampidelli" target="_blank"><img alt="FelipeFVCampidelli" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&logo=GitHub&logoColor=000000&color=blueviolet&style=for-the-badge"/></a>
 </p>
 
 
