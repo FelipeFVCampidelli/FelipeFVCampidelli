@@ -6,8 +6,6 @@
 
 ## 📖 About Me
 
-- 👀 I’m interested in data science, machine learning and web development
-- 🌱 I’m currently learning React Redux
 - 📫 How to reach me felipefvcampidelli@hotmail.com
 
 </br>
